@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "07d0b7813417bfec",
+    "type": "split",
+    "children": [
+      {
+        "id": "af134d266b5e3bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b928afe641228ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "persons/example person.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "018341f2b735d3e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ce57daae8b3f9e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a2ef4e25bb8ff9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fac81cc9528e27e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fe8f2e5872ab680",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc79c5ef4bae9ba7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ee819449ff19c83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fe333a0d5e5fafa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dc854f01e9b3dbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dc5fc18e3f88943",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "persons/example person.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bedd86687ef4298b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "persons/example person.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bab1a32104bda83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cffa1cda5eac6bd4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "persons/example person.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "b928afe641228ae2",
+  "lastOpenFiles": [
+    "README.md",
+    "new note.md",
+    "persons/example person.md",
+    "Welcome.md",
+    "templates/person.md",
+    "<% tp.file.title %>.md",
+    "templates/fleeting.md",
+    "templates",
+    "meeting",
+    "persons"
+  ]
+}
